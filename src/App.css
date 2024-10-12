@@ -40,3 +40,35 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.heading {
+  color: #343a40;
+  font-family: 'Roboto', sans-serif;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.btn-primary, .btn-danger {
+  width: 100%;
+}
+
+.btn-outline-secondary {
+  margin-top: 20px;
+}
